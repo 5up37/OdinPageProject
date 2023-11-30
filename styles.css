@@ -1,0 +1,37 @@
+
+
+body {
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+    align-items: center;
+    margin: 0;
+    padding: 0 8px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.head {
+    gap: 16px;
+}
+
+ul.head li {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.headtext {
+    font-size: 24px;
+    color: #F9FAF8;
+}
